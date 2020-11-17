@@ -1,0 +1,8 @@
+a = int(input())
+b = int(input())
+c=int(a+b,)
+d=int(a-b)
+e=int(a*b)
+print(c,'\t')
+print(d,'\t')
+print(e)
